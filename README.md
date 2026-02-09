@@ -1,0 +1,58 @@
+# レッド・ホット・チリ・ペッパーズ – The Adventures of Rain Dance Maggie
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.73] Lipstick junkie, debunk the all in one
+[00:24.78] She came back wearing a smile
+[00:29.61] Lookin' like someone drugged me that wanted to unplug me
+[00:34.26] No one here is on trial, it's just a turn-around and we go, oh
+[01:05.26] 
+[00:42.45] Well, then we go uh, uh-uh, oh
+[00:57.45] 
+[00:47.86] Tick-tock I want to rock you like the '80s
+[00:52.32] Cock-blocking isn't allowed
+[00:56.85] Tugboat Shiela is into memorabilia
+[01:01.33] Who said three is a crowd? We better get it on the go
+[01:27.83] 
+[01:05.92] Hey, now
+[01:09.74] We've got to make it rain somehow
+[01:14.50] She told me to and showed me what to do
+[01:18.50] Our Maggie makes it in a cloud
+[01:33.50] 
+[01:23.01] I said, "Hey, now"
+[01:27.52] We've got to make it rain somehow
+[01:32.43] She told me to and showed me what to do
+[01:36.39] She knows how to make it loud
+[01:50.89] 
+[01:50.68] Rain Dance Maggie advances to the final
+[01:55.27] Who knew that she had the goods?
+[01:59.55] Little did I know her body was warm, delicious vinyl
+[02:04.20] To your neck of the woods, I want to lick a little bit
+[02:31.20] 
+[02:08.64] Hey, now
+[02:12.44] We've got to make it rain somehow
+[02:17.46] She told me to and showed me what to do
+[02:21.40] Our Maggie makes it in a cloud
+[02:36.40] 
+[02:43.88] You got the wrong girl
+[02:48.20] But not for long, girl
+[02:52.69] It's in the song, girl
+[02:57.06] 'Cause I'll be gone, girl
+[03:09.56] 
+[03:02.44] Hey, now
+[03:06.19] We've got to make it rain somehow
+[03:10.99] She told me to and showed me what to do
+[03:15.03] Our Maggie makes it in a cloud
+[03:30.03] 
+[03:19.40] I said, "Hey, now"
+[03:24.06] I want to rock this rowdy crowd
+[03:28.99] She told me to and showed me what to do
+[03:32.87] She knows how to make it loud
+[03:47.37] 
+[03:41.69] But not for long, girl
+[03:46.34] It's in the song, girl
+[03:50.90] 'Cause I'll be gone
+[03:52.11] Bye bye-bye, yeah
+[03:56.59] Bye bye-bye, girl
+```
