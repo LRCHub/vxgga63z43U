@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "The Adventures of Rain Dance Maggie",
+  "base_artist": "レッド・ホット・チリ・ペッパーズ",
+  "createdAt": "2026-02-09T14:02:55.412984Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Adventures of Rain Dance Maggie",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/01_The_Adventures_of_Rain_Dance_Maggie_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Adventures of Rain Dance Maggie",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/02_The_Adventures_of_Rain_Dance_Maggie_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Adventures of Rain Dance Maggie",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/03_The_Adventures_of_Rain_Dance_Maggie_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Adventures Of Rain Dance Maggie",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/04_The_Adventures_Of_Rain_Dance_Maggie_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Adventures Of Rain Dance Maggie",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/05_The_Adventures_Of_Rain_Dance_Maggie_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Adventures Of Rain Dance Maggie",
+      "artist": "Red Hot Chilli Peppers",
+      "has_synced": true,
+      "path": "select/06_The_Adventures_Of_Rain_Dance_Maggie_Red_Hot_Chilli_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Adventures of Rain Dance Maggie",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/07_The_Adventures_of_Rain_Dance_Maggie_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Adventures of Rain Dance Maggie",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/08_The_Adventures_of_Rain_Dance_Maggie_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Adventures of Rain Dance Maggie",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/09_The_Adventures_of_Rain_Dance_Maggie_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Adventures of Rain Dance Maggie",
+      "artist": "Red Hot Chili Pepers",
+      "has_synced": true,
+      "path": "select/10_The_Adventures_of_Rain_Dance_Maggie_Red_Hot_Chili_Pepers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Adventures Of Rain Dance Maggie",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/11_The_Adventures_Of_Rain_Dance_Maggie_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE ADVENTURES OF RAIN DANCE MAGGIE",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/pl_01_THE_ADVENTURES_OF_RAIN_DANCE_MAGGIE_Red_Hot_Chili_Peppers.txt"
+    }
+  ]
+}
